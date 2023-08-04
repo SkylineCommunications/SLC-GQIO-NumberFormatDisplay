@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Number Format Display_1</name>
+    </assembly>
+    <members>
+        <member name="T:Number_Format_Display_1.NumberFormatDisplay">
+            <summary>
+            Represents a DataMiner Automation script.
+            </summary>
+        </member>
+    </members>
+</doc>
