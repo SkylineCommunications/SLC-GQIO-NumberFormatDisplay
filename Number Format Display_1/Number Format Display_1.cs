@@ -48,7 +48,7 @@ namespace Number_Format_Display_1
 
         public void HandleRow(GQIEditableRow row)
         {
-            double value = row.GetValue<double>(this._oldColumn);
+            double value = row.GetValue<int>(this._oldColumn);
             if (value < 10000)
             {
                 if (value < 1000)
