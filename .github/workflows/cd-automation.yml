@@ -31,6 +31,6 @@ jobs:
            stage: All
            # The API-key: generated in the DCP Admin app (https://admin.dataminer.services/) as authentication for a certain DataMiner System.
            api-key: ${{ secrets.LAB_DEPLOY_KEY }}
-           solution-path: ./Number_Format_Display.sln
+           solution-path: ./Number-Format-Display.sln
            artifact-name: ${{ github.repository }} ${{ github.ref_name }}_B${{ github.run_number }}
            build-number: ${{ github.run_number }}
