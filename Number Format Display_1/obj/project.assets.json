@@ -353,26 +353,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GERMANBS\\.nuget\\packages\\": {}
+    "C:\\Users\\carlosmt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\Automation\\SLC-GQIO-NumberFormatDisplay\\Number Format Display_1\\Number Format Display_1.csproj",
+      "projectUniqueName": "C:\\GitHub\\SkylineCommunications\\NumberFormatDisplay\\Number Format Display_1\\Number Format Display_1.csproj",
       "projectName": "Number Format Display_1",
-      "projectPath": "C:\\GIT\\Automation\\SLC-GQIO-NumberFormatDisplay\\Number Format Display_1\\Number Format Display_1.csproj",
-      "packagesPath": "C:\\Users\\GERMANBS\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\Automation\\SLC-GQIO-NumberFormatDisplay\\Number Format Display_1\\obj\\",
+      "projectPath": "C:\\GitHub\\SkylineCommunications\\NumberFormatDisplay\\Number Format Display_1\\Number Format Display_1.csproj",
+      "packagesPath": "C:\\Users\\carlosmt\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\SkylineCommunications\\NumberFormatDisplay\\Number Format Display_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GERMANBS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carlosmt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net462"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://devcore3:81/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -403,7 +402,7 @@
             "version": "[1.1.118, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   },
